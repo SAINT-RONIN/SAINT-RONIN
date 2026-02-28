@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SAINT-RONIN/SAINT-RONIN/main/assets/CUBE-GRAPH.png" width="400" alt="CUBE GRAPH"/>
+  <img src="https://raw.githubusercontent.com/SAINT-RONIN/SAINT-RONIN/main/assets/CUBE-GRAPH.png" width="150" alt="CUBE GRAPH"/>
 </div>
 
 <div align="center">
