@@ -2,23 +2,25 @@
 <!--                              HEADER                                -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0a0a0f,40:0d1117,75:0d2040,100:0a0a0f&amp;height=290&amp;section=header&amp;text=SAINT%20RONIN&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=48&amp;animation=fadeIn&amp;desc=Designer%20%26%20Frontend%20Developer%20%E2%80%A2%20Inclusive%20Digital%20Craft&amp;descSize=14&amp;descAlignY=70&amp;descColor=4a9eff&amp;stroke=1a2744&amp;strokeWidth=1" width="100%" alt="SAINT RONIN"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SAINT-RONIN/SAINT-RONIN/main/assets/CUBE-GRAPH.png" width="400" alt="CUBE GRAPH"/>
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=300&amp;size=14&amp;duration=3800&amp;pause=1400&amp;color=4a9eff&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=No+one+is+left+out.+Everyone+matters.;I+create+inclusive+digital+experiences.;Design+is+communication.;Clarity+is+a+form+of+care." alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=400&amp;size=22&amp;duration=3800&amp;pause=1400&amp;color=4a9eff&amp;center=true&amp;vCenter=true&amp;width=1100&amp;lines=No+one+is+left+out.+Everyone+matters.;I+create+inclusive+digital+experiences.;Design+is+communication.;Clarity+is+a+form+of+care." alt="tagline" />
 
 <br/><br/>
 
 <a href="https://srleandro.com">
-  <img src="https://img.shields.io/badge/↗%20srleandro.com-4a9eff?style=for-the-badge&amp;logo=safari&amp;logoColor=ffffff&amp;labelColor=0d1117" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/↗%20srleandro.com-4a9eff?style=for-the-badge&amp;logo=safari&amp;logoColor=ffffff&amp;labelColor=0b1220" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://github.com/SAINT-RONIN">
-  <img src="https://img.shields.io/badge/SAINT--RONIN-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=0d1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=111827" alt="GitHub"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=SAINT-RONIN&amp;style=for-the-badge&amp;color=0d1117&amp;label=VIEWS&amp;labelColor=0d1117" alt="Views"/>
+<img src="https://img.shields.io/badge/Views-0d1117?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=ffffff&amp;labelColor=1a2744&amp;color=4a9eff" alt="Views"/>
 
 </div>
 
