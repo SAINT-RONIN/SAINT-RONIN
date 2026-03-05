@@ -97,7 +97,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <h3 align="center">⬡ &nbsp; Stack &amp; Tools &nbsp; ⬡</h3>
-<p align="center" style="color:#888888;">Larger icons, grouped by category</p>
+<p align="center" style="color:#888888;">~ ~ ~</p>
 
 <br/>
 
